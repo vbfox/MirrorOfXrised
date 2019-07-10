@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MirrorOfFrised", "MirrorOfFrised\MirrorOfFrised.fsproj", "{E87A776D-C20B-4BED-ACA1-23D84E9337A7}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TestMirror", "TestMirror\TestMirror.fsproj", "{E6A750E7-3E33-4B28-8A86-49E93E48DCCE}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MirrorOfFrised.Tests", "MirrorOfFrised.Tests\MirrorOfFrised.Tests.fsproj", "{ADF92AB8-1DB0-42E8-BF8B-9ABE4853C34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E87A776D-C20B-4BED-ACA1-23D84E9337A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87A776D-C20B-4BED-ACA1-23D84E9337A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87A776D-C20B-4BED-ACA1-23D84E9337A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87A776D-C20B-4BED-ACA1-23D84E9337A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A750E7-3E33-4B28-8A86-49E93E48DCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A750E7-3E33-4B28-8A86-49E93E48DCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A750E7-3E33-4B28-8A86-49E93E48DCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A750E7-3E33-4B28-8A86-49E93E48DCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF92AB8-1DB0-42E8-BF8B-9ABE4853C34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF92AB8-1DB0-42E8-BF8B-9ABE4853C34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF92AB8-1DB0-42E8-BF8B-9ABE4853C34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF92AB8-1DB0-42E8-BF8B-9ABE4853C34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

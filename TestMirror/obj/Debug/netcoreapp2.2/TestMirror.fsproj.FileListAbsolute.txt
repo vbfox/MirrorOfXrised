@@ -1,0 +1,13 @@
+C:\Code\MirrorOfFrised\TestMirror\bin\Debug\netcoreapp2.2\TestMirror.deps.json
+C:\Code\MirrorOfFrised\TestMirror\bin\Debug\netcoreapp2.2\TestMirror.runtimeconfig.json
+C:\Code\MirrorOfFrised\TestMirror\bin\Debug\netcoreapp2.2\TestMirror.runtimeconfig.dev.json
+C:\Code\MirrorOfFrised\TestMirror\bin\Debug\netcoreapp2.2\TestMirror.dll
+C:\Code\MirrorOfFrised\TestMirror\bin\Debug\netcoreapp2.2\TestMirror.pdb
+C:\Code\MirrorOfFrised\TestMirror\obj\Debug\netcoreapp2.2\TestMirror.fsprojAssemblyReference.cache
+C:\Code\MirrorOfFrised\TestMirror\obj\Debug\netcoreapp2.2\TestMirror.AssemblyInfoInputs.cache
+C:\Code\MirrorOfFrised\TestMirror\obj\Debug\netcoreapp2.2\TestMirror.AssemblyInfo.fs
+C:\Code\MirrorOfFrised\TestMirror\obj\Debug\netcoreapp2.2\TestMirror.dll
+C:\Code\MirrorOfFrised\TestMirror\obj\Debug\netcoreapp2.2\TestMirror.pdb
+C:\Code\MirrorOfFrised\TestMirror\bin\Debug\netcoreapp2.2\BlackFox.MirrorOfFrised.dll
+C:\Code\MirrorOfFrised\TestMirror\bin\Debug\netcoreapp2.2\BlackFox.MirrorOfFrised.pdb
+C:\Code\MirrorOfFrised\TestMirror\obj\Debug\netcoreapp2.2\TestMirror.fsproj.CopyComplete

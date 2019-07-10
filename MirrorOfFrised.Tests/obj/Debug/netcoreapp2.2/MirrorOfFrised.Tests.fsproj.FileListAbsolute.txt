@@ -1,0 +1,13 @@
+C:\Code\MirrorOfFrised\MirrorOfFrised.Tests\bin\Debug\netcoreapp2.2\MirrorOfFrised.Tests.deps.json
+C:\Code\MirrorOfFrised\MirrorOfFrised.Tests\bin\Debug\netcoreapp2.2\MirrorOfFrised.Tests.runtimeconfig.json
+C:\Code\MirrorOfFrised\MirrorOfFrised.Tests\bin\Debug\netcoreapp2.2\MirrorOfFrised.Tests.runtimeconfig.dev.json
+C:\Code\MirrorOfFrised\MirrorOfFrised.Tests\bin\Debug\netcoreapp2.2\MirrorOfFrised.Tests.dll
+C:\Code\MirrorOfFrised\MirrorOfFrised.Tests\bin\Debug\netcoreapp2.2\MirrorOfFrised.Tests.pdb
+C:\Code\MirrorOfFrised\MirrorOfFrised.Tests\bin\Debug\netcoreapp2.2\BlackFox.MirrorOfFrised.dll
+C:\Code\MirrorOfFrised\MirrorOfFrised.Tests\bin\Debug\netcoreapp2.2\BlackFox.MirrorOfFrised.pdb
+C:\Code\MirrorOfFrised\MirrorOfFrised.Tests\obj\Debug\netcoreapp2.2\MirrorOfFrised.Tests.fsprojAssemblyReference.cache
+C:\Code\MirrorOfFrised\MirrorOfFrised.Tests\obj\Debug\netcoreapp2.2\MirrorOfFrised.Tests.AssemblyInfoInputs.cache
+C:\Code\MirrorOfFrised\MirrorOfFrised.Tests\obj\Debug\netcoreapp2.2\MirrorOfFrised.Tests.AssemblyInfo.fs
+C:\Code\MirrorOfFrised\MirrorOfFrised.Tests\obj\Debug\netcoreapp2.2\MirrorOfFrised.Tests.fsproj.CopyComplete
+C:\Code\MirrorOfFrised\MirrorOfFrised.Tests\obj\Debug\netcoreapp2.2\MirrorOfFrised.Tests.dll
+C:\Code\MirrorOfFrised\MirrorOfFrised.Tests\obj\Debug\netcoreapp2.2\MirrorOfFrised.Tests.pdb

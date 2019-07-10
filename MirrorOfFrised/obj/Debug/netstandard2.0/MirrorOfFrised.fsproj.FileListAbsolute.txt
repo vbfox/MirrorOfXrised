@@ -1,0 +1,8 @@
+C:\Code\MirrorOfFrised\MirrorOfFrised\bin\Debug\netstandard2.0\BlackFox.MirrorOfFrised.deps.json
+C:\Code\MirrorOfFrised\MirrorOfFrised\bin\Debug\netstandard2.0\BlackFox.MirrorOfFrised.dll
+C:\Code\MirrorOfFrised\MirrorOfFrised\bin\Debug\netstandard2.0\BlackFox.MirrorOfFrised.pdb
+C:\Code\MirrorOfFrised\MirrorOfFrised\obj\Debug\netstandard2.0\MirrorOfFrised.fsprojAssemblyReference.cache
+C:\Code\MirrorOfFrised\MirrorOfFrised\obj\Debug\netstandard2.0\MirrorOfFrised.AssemblyInfoInputs.cache
+C:\Code\MirrorOfFrised\MirrorOfFrised\obj\Debug\netstandard2.0\MirrorOfFrised.AssemblyInfo.fs
+C:\Code\MirrorOfFrised\MirrorOfFrised\obj\Debug\netstandard2.0\BlackFox.MirrorOfFrised.dll
+C:\Code\MirrorOfFrised\MirrorOfFrised\obj\Debug\netstandard2.0\BlackFox.MirrorOfFrised.pdb
