@@ -10,6 +10,7 @@ type SomeRecord = {
     I: int
     NN: double option
     Next: SomeDu
+    Lst: int list
 }
 
 and SomeDu =
@@ -43,8 +44,11 @@ let main argv =
             I = 666
             NN = None
             Next = Foo
+            Lst = [1; 2; 3]
         }
+        Lst = []
     }
     let s = Mirror.mirror v
     printfn "%s" s
+    let x = Microsoft.FSharp.Core.option.None
     0 // return an integer exit code
