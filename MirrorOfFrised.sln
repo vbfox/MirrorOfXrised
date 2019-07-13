@@ -6,6 +6,11 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TestMirror", "TestMirror\Te
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MirrorOfFrised.Tests", "MirrorOfFrised.Tests\MirrorOfFrised.Tests.fsproj", "{ADF92AB8-1DB0-42E8-BF8B-9ABE4853C34B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{ECDDD1CD-2F26-45F2-9B60-6DEB495268F7}"
+ProjectSection(SolutionItems) = preProject
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
