@@ -8,6 +8,7 @@
 
     <ItemGroup>
         <Compile Include="Sb.fs" />
+        <Compile Include="ComparableType.fs" />
         <Compile Include="Library.fs" />
     </ItemGroup>
 
